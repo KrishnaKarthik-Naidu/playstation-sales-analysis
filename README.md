@@ -24,10 +24,6 @@ and sales performance.
 - Data Transformation
 - Data Visualization
 
-## 📈 Dashboard Preview
-
-![PlayStation Sales Dashboard](Screenshots/dashboard-overview.png)
-
 ## 🔍 Key Analysis
 
 The dashboard provides insights into:
@@ -39,16 +35,4 @@ The dashboard provides insights into:
 - Sales trends
 - Game-level performance
 
-## 📂 Project Structure
 
-```text
-PlayStation-PowerBI-Project/
-│
-├── Screenshots/
-│   ├── dashboard-overview.png
-│   ├── sales-analysis.png
-│   └── game-analysis.png
-│
-├── PlayStation_Games_Sales.pbix
-│
-└── README.md
